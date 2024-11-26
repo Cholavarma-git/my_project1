@@ -1,1 +1,2 @@
-echo "welcome to guvi"
+echo "Hello from master branch!"
+echo "Hello from feature-branch!"
